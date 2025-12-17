@@ -1,4 +1,4 @@
-package arrays;
+package arrays.twopointer;
 
 public class MoveZeros {
     

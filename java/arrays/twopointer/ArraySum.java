@@ -1,4 +1,4 @@
-package arrays;
+package arrays.twopointer;
 
 public class ArraySum {
     public static int arraySum(int[] nums) {
