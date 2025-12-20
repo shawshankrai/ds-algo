@@ -1,4 +1,4 @@
-package arrays.twopointer;
+package java.ds.arrays.twopointer;
 
 public class MaximumInArray {
 

@@ -1,4 +1,4 @@
-package arrays.slidingwindow;
+package java.ds.arrays.slidingwindow;
 
 public class LongestRepeatingCharacterReplacement {
 

@@ -1,4 +1,4 @@
-package arrays.meetingroom;
+package java.ds.arrays.meetingroom;
 
 import java.util.Arrays;
 
