@@ -1,4 +1,4 @@
-package java.ds.arrays.slidingwindow;
+package ds.arrays.slidingwindow;
 
 import java.util.Set;
 import java.util.Arrays;

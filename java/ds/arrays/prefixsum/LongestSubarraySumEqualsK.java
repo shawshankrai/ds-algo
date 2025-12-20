@@ -1,4 +1,4 @@
-package java.ds.arrays.prefixsum;
+package ds.arrays.prefixsum;
 
 import java.util.Map;
 import java.util.HashMap;

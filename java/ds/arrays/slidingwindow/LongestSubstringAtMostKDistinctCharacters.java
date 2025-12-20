@@ -1,4 +1,4 @@
-package java.ds.arrays.slidingwindow;
+package ds.arrays.slidingwindow;
 
 import java.util.Map;
 import java.util.HashMap;

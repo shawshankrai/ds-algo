@@ -1,4 +1,4 @@
-package java.ds.arrays.mergedIntervals;
+package ds.arrays.mergedIntervals;
 
 import java.util.ArrayList;
 import java.util.Arrays;

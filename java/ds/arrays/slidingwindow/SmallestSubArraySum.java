@@ -1,4 +1,4 @@
-package java.ds.arrays.slidingwindow;
+package ds.arrays.slidingwindow;
 
 public class SmallestSubArraySum {
     private static int smallestSubArraySum(int[] array, int s) {

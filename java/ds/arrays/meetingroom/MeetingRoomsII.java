@@ -1,4 +1,4 @@
-package java.ds.arrays.meetingroom;
+package ds.arrays.meetingroom;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
