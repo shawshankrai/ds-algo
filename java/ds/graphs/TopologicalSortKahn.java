@@ -32,6 +32,7 @@ public class TopologicalSortKahn {
 
             for(int v : graph[u]) {
                 inIndex[v]--;
+                // inDegree already enforces single entry, no visited required
                 if(inIndex[v] == 0) {
                     queue.offer(v);
                 }
