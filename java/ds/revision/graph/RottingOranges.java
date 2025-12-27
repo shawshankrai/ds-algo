@@ -1,4 +1,4 @@
-package ds.revision;
+package ds.revision.graph;
 
 import java.util.LinkedList;
 import java.util.Queue;

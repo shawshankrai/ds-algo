@@ -1,4 +1,4 @@
-package ds.revision;
+package ds.revision.graph;
 
 // connected components
 public class IslandDFS {
