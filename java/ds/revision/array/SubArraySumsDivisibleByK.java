@@ -15,7 +15,7 @@ public class SubArraySumsDivisibleByK {
         for(int num : numbers) {
             prefixSum += num;
             int rem = prefixSum % k;
-            rem = (rem + k) % k; // overflow fix
+            rem = (rem + k) % k; // fixes -ve reminder for -ve number
 
             ans += map.getOrDefault(rem, 0);
             map.put(rem, map.getOrDefault(rem, 0) + 1);
