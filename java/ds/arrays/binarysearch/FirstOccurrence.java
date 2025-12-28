@@ -1,4 +1,4 @@
-package ds.binarysearch;
+package ds.arrays.binarysearch;
 
 public class FirstOccurrence {
     private static int firstOccurrence(int[] array, int target) {

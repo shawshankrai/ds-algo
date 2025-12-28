@@ -1,4 +1,4 @@
-package ds.binarysearch;
+package ds.arrays.binarysearch;
 
 public class ShipWithinDays {
     private static int shipWithinDays(int[] weights, int days) {

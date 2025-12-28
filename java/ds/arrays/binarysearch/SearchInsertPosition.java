@@ -1,4 +1,4 @@
-package ds.binarysearch;
+package ds.arrays.binarysearch;
 
 public class SearchInsertPosition {
 
