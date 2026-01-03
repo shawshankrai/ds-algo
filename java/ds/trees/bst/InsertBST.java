@@ -73,6 +73,24 @@ public class InsertBST {
 
         // You can verify by inOrder traversal (should be sorted)
         inOrder(root);
+
+
+        TreeNode rootToo = new TreeNode(10);
+        rootToo.left = new TreeNode(5);
+        rootToo.right = new TreeNode(12);
+
+        rootToo.left.left = new TreeNode(4);
+        rootToo.left.right = new TreeNode(6);
+
+        rootToo.right.left = new TreeNode(11);
+        rootToo.right.right = new TreeNode(13);
+
+        valToInsert = 9;
+
+        rootToo = insertIntoBST(rootToo, valToInsert);
+
+        // You can verify by inOrder traversal (should be sorted)
+        inOrder(rootToo);
     }
     
 }
