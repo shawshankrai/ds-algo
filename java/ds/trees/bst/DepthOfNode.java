@@ -52,8 +52,7 @@ public class DepthOfNode {
         root.right.left = new TreeNode(11);
         root.right.right = new TreeNode(13);
 
-        // System.out.println(depth(root, 4, 0));
+        System.out.println(depth(root, 4, 0));
         System.out.println(depthIter(root, 4));
-
     }
 }
